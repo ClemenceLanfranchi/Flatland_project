@@ -1,0 +1,9 @@
+{
+  "challenge_id": "flatland-3",
+  "grader_id": "flatland-3",
+  "authors": ["Paris-Brest"],
+  "description": "ppo judge test0 900",
+  "debug": true,
+  "tags": ["RL"]
+}
+
